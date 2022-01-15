@@ -1,0 +1,9 @@
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\bin\Debug\Chicki_Chicken_step2.exe.config
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\bin\Debug\Chicki_Chicken_step2.exe
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\bin\Debug\Chicki_Chicken_step2.pdb
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\obj\Debug\Chicki_Chicken_step2.csprojResolveAssemblyReference.cache
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\obj\Debug\Chicki_Chicken_step2.Form1.resources
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\obj\Debug\Chicki_Chicken_step2.Properties.Resources.resources
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\obj\Debug\Chicki_Chicken_step2.csproj.GenerateResource.Cache
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\obj\Debug\Chicki_Chicken_step2.exe
+c:\users\aa\documents\visual studio 2013\Projects\Chicki_Chicken_step2\Chicki_Chicken_step2\obj\Debug\Chicki_Chicken_step2.pdb
