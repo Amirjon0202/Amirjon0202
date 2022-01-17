@@ -17,7 +17,7 @@ namespace Chicki_Chicken_step2
         {
 
         }
-        public override void Cook()
+        public override void Cook() // тут нужно было добавить метод, который несколько раз вызывал бы метод ниже и один раз - Cook()
         {
             CutUp();
         }

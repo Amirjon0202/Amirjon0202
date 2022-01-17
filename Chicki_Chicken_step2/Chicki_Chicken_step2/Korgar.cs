@@ -36,7 +36,6 @@ namespace Chicki_Chicken_step2
 
                 Orders[CustomerNumber] = CustomerOrder;
                 CustomerNumber++;
-
             }
             else
             {
